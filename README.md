@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MdRasel-Hossain
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning python, Machine Learning algorithms, and Deep Learning
+- 🌱 I’m currently learning python, Machine Learning algorithms, Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on improbe my code quality 
 - 📫 How to reach me .... I 
 

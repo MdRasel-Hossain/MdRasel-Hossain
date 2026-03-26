@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raseltarunno82@gmail.com**
 
-- ⚡ Fun fact **I take my code seriously — myself, not so much 😄**
+- ⚡ Fun fact **I take my code seriously — myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
